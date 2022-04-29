@@ -27,7 +27,7 @@ function App() {
       
       <div className="App">
         <Header boton={get} />
-        holo
+        
 
 
         <Items  items={items} />
